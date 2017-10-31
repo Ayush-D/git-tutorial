@@ -1,1 +1,1 @@
-print("communism shall rise again")
+print("communism shall rise again and again")
